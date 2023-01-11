@@ -12,6 +12,7 @@ function bubbleSort(array) {
 }
 
 console.log(bubbleSort([2, 3, 5, 1, 5, 7, 2, 10, 8]));
+console.log(bubbleSort([1, 3, 5, 1, 5, 7, 2, 10]));
 console.log(bubbleSort([1]));
 console.log(bubbleSort([]));
 console.log(bubbleSort([5, 2]));
